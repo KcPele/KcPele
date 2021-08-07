@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KcPele
-- 👀 I’m know Java, python, Nodejs and JavaScript
+- 👀 I know little about JavaScript and Nodejs
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me. 
