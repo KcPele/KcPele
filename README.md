@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KcPele
-- 👀 I use Django and React for web apps 
-- 🌱 I’m currently working with Python
-- 💞️ I’m looking to collaborate on Project and Ai Tech
+- 👀 I use Django, FastAPI, Reactjs, Nextjs and Scaffold-eth for web apps 
+- 🌱 I’m currently working with Solidity, JavaScript, python
+- 💞️ I’m looking to collaborate on Web3 Project and Ai Tech
 - 📫 You can follow me or connect with me on LinkedIn @kc pele. 
 
 <!---
