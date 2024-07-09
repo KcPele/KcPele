@@ -9,4 +9,4 @@ KcPele/KcPele is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://readme-stat-tawny.vercel.app/api?username=KcPele&theme=algolia&show_icons=false)
+![Anurag's GitHub stats](https://readme-stat-git-dependabot-npmandyarnes-6e3f8f-kcpeles-projects.vercel.app/api?username=KcPele&theme=algolia&show_icons=false)
